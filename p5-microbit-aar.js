@@ -8,7 +8,7 @@ const THIS_WAY = 0;
 const THAT_WAY = 1;
 const REVERSE = 2;
 
-class p5MicroBit {
+class MicroBitAAR {
 
   constructor() {
     this.callbackListeners = {
